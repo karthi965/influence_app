@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "263468833224",
+    "project_id": "influenceapp-db96b",
+    "storage_bucket": "influenceapp-db96b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263468833224:android:f300a864de0a29e0ab48fd",
+        "android_client_info": {
+          "package_name": "com.example.influence_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcyFeioysPcnbXr5jz8y4WDDhDmNHa34c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
